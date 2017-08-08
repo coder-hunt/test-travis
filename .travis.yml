@@ -1,6 +1,4 @@
 language: node
-node_js:
-    -0.8
 sudo: false
 script: bundle exec rspec
 dist: trusty
